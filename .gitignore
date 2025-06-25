@@ -1,0 +1,7 @@
+terraform_proxmox.bash
+.terraform
+.terraform*
+.scripts
+.env
+.vscode
+*.txt
